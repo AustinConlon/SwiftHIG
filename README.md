@@ -192,3 +192,35 @@
 
 ### watchOS
 [Groups](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/groups/)
+
+## Image
+
+[SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/)
+
+### macOS
+[Image Size and Resolution](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/image-size-and-resolution/)
+
+[Custom Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/custom-icons/)
+
+[Multi-Item Drag Images](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/multi-item-drag-images/)
+
+[System Icons](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/system-icons/)
+
+### iOS
+[Image Size and Resolution](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/image-size-and-resolution/)
+
+[Custom Icons (iOS 12 and Earlier](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/custom-icons/)
+
+[Launch Screen](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/launch-screen/)
+
+[System Icons (iOS 12 and Earlier)](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/)
+
+### watchOS
+[Image Optimizations](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/image-optimizations/)
+
+[Complication Images](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/complication-images/)
+
+[Menu Icons](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/menu-icons/)
+
+### tvOS
+[Image Size and Resolution](https://developer.apple.com/design/human-interface-guidelines/tvos/icons-and-images/image-size-and-resolution/)
