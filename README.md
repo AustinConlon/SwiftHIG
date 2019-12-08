@@ -36,9 +36,6 @@
 
 [Settings](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/settings/)
 
-### watchOS
-[Buttons](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/buttons/)
-
 ### tvOS
 [Digit Entry Views](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/digit-entry-views/)
 
@@ -48,3 +45,17 @@
 
 ### macOS
 [Boxes](https://developer.apple.com/design/human-interface-guidelines/macos/windows-and-views/boxes/)
+
+## List
+
+### macOS
+[Table Views](https://developer.apple.com/design/human-interface-guidelines/macos/windows-and-views/table-views/)
+
+### iOS
+[Tables](https://developer.apple.com/design/human-interface-guidelines/ios/views/tables/)
+
+### watchOS
+[Tables](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/tables/)
+
+### tvOS
+[Tables](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/tables/)
