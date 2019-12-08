@@ -161,7 +161,7 @@
 [Text Fields](https://developer.apple.com/design/human-interface-guidelines/ios/controls/text-fields/)
 
 ### watchOS
-[WKInterfaceTextField documentation](https://developer.apple.com/documentation/watchkit/wkinterfacetextfield)(no page exists in the Human Interface Guidelines)
+[WKInterfaceTextField documentation](https://developer.apple.com/documentation/watchkit/wkinterfacetextfield) (no page exists in the Human Interface Guidelines)
 
 ### tvOS
 [Text and Search](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/text-and-search/)
