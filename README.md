@@ -161,7 +161,7 @@
 [Text Fields](https://developer.apple.com/design/human-interface-guidelines/ios/controls/text-fields/)
 
 ### watchOS
-[WKInterfaceTextField documentation (no page exists in the Human Interface Guidelines)](https://developer.apple.com/documentation/watchkit/wkinterfacetextfield)
+[WKInterfaceTextField documentation](https://developer.apple.com/documentation/watchkit/wkinterfacetextfield)(no page exists in the Human Interface Guidelines)
 
 ### tvOS
 [Text and Search](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/text-and-search/)
@@ -173,3 +173,17 @@
 
 ### watchOS
 [Switches](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/switches/)
+
+## Color
+
+### macOS
+[Color](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/color/)
+
+### iOS
+[Color](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/)
+
+### watchOS
+[Color](https://developer.apple.com/design/human-interface-guidelines/watchos/visual-design/color/)
+
+### tvOS
+[Color](https://developer.apple.com/design/human-interface-guidelines/tvos/visual-design/color/)
