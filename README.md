@@ -165,3 +165,11 @@
 
 ### tvOS
 [Text and Search](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/text-and-search/)
+
+## Toggle
+
+### iOS
+[Switches](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/)
+
+### watchOS
+[Switches](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/switches/)
