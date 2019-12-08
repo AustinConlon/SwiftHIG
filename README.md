@@ -101,3 +101,14 @@
 
 ### watchOS
 [Digital Crown](https://developer.apple.com/design/human-interface-guidelines/watchos/user-interaction/digital-crown/)
+
+## Slider
+
+### macOS
+[Sliders](https://developer.apple.com/design/human-interface-guidelines/macos/selectors/sliders/)
+
+### iOS
+[Sliders](https://developer.apple.com/design/human-interface-guidelines/ios/controls/sliders/)
+
+### watchOS
+[Sliders](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/sliders/)
