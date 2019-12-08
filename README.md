@@ -131,3 +131,23 @@
 
 ### tvOS
 [Tab Bars](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/tab-bars/)
+
+## Text
+
+### macOS
+[Typography](https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/)
+
+[Labels](https://developer.apple.com/design/human-interface-guidelines/macos/fields-and-labels/labels/)
+
+### iOS
+[Typography](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/)
+
+[Labels](https://developer.apple.com/design/human-interface-guidelines/ios/controls/labels/)
+
+### watchOS
+[Typography](https://developer.apple.com/design/human-interface-guidelines/watchos/visual-design/typography/)
+
+[Labels](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/labels/)
+
+### tvOS
+[Typography](https://developer.apple.com/design/human-interface-guidelines/tvos/visual-design/typography/)
