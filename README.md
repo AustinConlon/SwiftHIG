@@ -120,3 +120,14 @@
 
 ### iOS
 [Steppers](https://developer.apple.com/design/human-interface-guidelines/ios/controls/steppers/)
+
+## Tab View
+
+### macOS
+[Tab Views](https://developer.apple.com/design/human-interface-guidelines/macos/windows-and-views/tab-views/)
+
+### iOS
+[Tab Bars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/tab-bars/)
+
+### tvOS
+[Tab Bars](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/tab-bars/)
