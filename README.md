@@ -112,3 +112,11 @@
 
 ### watchOS
 [Sliders](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/sliders/)
+
+## Stepper
+
+### macOS
+[Steppers](https://developer.apple.com/design/human-interface-guidelines/macos/selectors/steppers/)
+
+### iOS
+[Steppers](https://developer.apple.com/design/human-interface-guidelines/ios/controls/steppers/)
