@@ -43,3 +43,8 @@
 [Digit Entry Views](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/digit-entry-views/)
 
 [Text and Search](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/text-and-search/)
+
+## Group Box
+
+### macOS
+[Boxes](https://developer.apple.com/design/human-interface-guidelines/macos/windows-and-views/boxes/)
