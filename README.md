@@ -63,12 +63,13 @@
 ## Menu Button
 
 ### macOS
-[Pop-Up Buttons](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/pop-up-buttons/)
+[Pull-Down Buttons](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/pull-down-buttons/)
 
 ## Navigation View
 
 ### iOS
 [Navigation](https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/navigation/)
+
 [Navigation Bars](https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/)
 
 ### watchOS
@@ -76,4 +77,16 @@
 
 ### tvOS
 [Navigation](https://developer.apple.com/design/human-interface-guidelines/tvos/app-architecture/navigation/)
+
 [Navigation Bars](https://developer.apple.com/design/human-interface-guidelines/tvos/interface-elements/navigation-bars/)
+
+## Picker
+
+### macOS
+[Pop-Up Buttons](https://developer.apple.com/design/human-interface-guidelines/macos/buttons/pop-up-buttons/)
+
+### iOS
+[Pickers](https://developer.apple.com/design/human-interface-guidelines/ios/controls/pickers/)
+
+### watchOS
+[Pickers](https://developer.apple.com/design/human-interface-guidelines/watchos/interface-elements/pickers/)
